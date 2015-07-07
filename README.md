@@ -42,8 +42,8 @@ Nirasa has a best practice, which is **very** opinionated, but one that works fo
 * Open Session
 * Let Admin/QA access to a section of the app where they can see the `session_id`.
 * File **all** bug reports with that `session_id`.
-* Default custom headers: `X-Nirasa-UserID` `X-Nirasa-AppVersion` `X-Nirasa-BuildID`.
-  For Example: `X-Nirasa-UserID: 1` `X-Nirasa-AppVersion: 3.7` `X-Nirasa-BuildID: 394`
+* Default custom headers: `X-Nirasa-UserID` `X-Nirasa-AppVersion` `X-Nirasa-BuildID` `X-Nirasa-Platform`.
+  For Example: `X-Nirasa-UserID: 1` `X-Nirasa-AppVersion: 3.7` `X-Nirasa-BuildID: 394` `X-Nirasa-Platform: iPhone`
 
 ## Deployment
 
