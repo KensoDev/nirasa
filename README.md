@@ -51,4 +51,4 @@ Nirasa has a best practice, which is **very** opinionated, but one that works fo
 
 ## LICENSE
 
-Read more in [License.md](License.md)
+Read more in [License](License)
