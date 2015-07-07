@@ -5,6 +5,8 @@ This is meant to "sit" alongside your HTTP server and help you with identifying 
 
 Once an app gets over a certain size and you have multiple platform and releases it gets harder and harder to spot problems. Nirasa comes to the rescue with a set of tools.
 
+Nirasa can work with any client->server. Whether it's a mobile native application or a Javascript SPA. the API is the same.
+
 ## What Nirasa includes
 
 Nirasa includes the concept of a session and request ID's (by default this will be different than your default request ids if you have one).  
